@@ -1,0 +1,5 @@
+-lecciones aprendidas
+-Acciones correctivas
+-Kanban de actividades
+-Convenios
+-statement del problema
