@@ -1,2 +1,1 @@
-# Soan
-Repositorio del soan
+Soan
